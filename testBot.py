@@ -4,8 +4,6 @@ import aiohttp
 import discord
 import json
 import config
-import sys
-import os
 from selenium import webdriver
 from PIL import Image
 from resizeimage import resizeimage
